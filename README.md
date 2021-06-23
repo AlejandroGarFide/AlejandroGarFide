@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @AlejandroGarFide
+- 👋 ¡Hola!, I’m @AlejandroGarFide
+- ☁ Azure Cloud certified!
 - 👀 I’m interested in Bioinformatics, Python, Data Science, Neuroscience and Science Communication!
-- 🌱 I’m currently learning Data Science, Azure Cloud Services and Python.
+- 🌱 I’m currently learning Data Science and improving my programming skills!
 - 💞️ I’m looking to collaborate on Bioinformatics, protein analysis, and data cleaning.
 - 📫 How to reach me @Alexopolous in Twitter and Instagram.
 
